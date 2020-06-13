@@ -22,8 +22,8 @@ $(document).ready(function () {
         }
 
         function sortByTime(a, b) {
-            let aTime = a.task_time;
-            let bTime = b.task_time;
+            let aTime = a.task_date;
+            let bTime = b.task_date;
 
             return ((aTime < bTime) ? -1 : ((aTime > bTime) ? 1 : 0));
         }
