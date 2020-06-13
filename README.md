@@ -1,2 +1,2 @@
-# offline-daily-planner
-Offline Daily Planner Web App - HTML5 project based on Udemy Course 
+# Daily-planner
+Daily planner web app using local storage 
